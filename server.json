@@ -1,0 +1,28 @@
+{
+    "transaction": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "venda",
+            "price": 14000,
+            "createdAt": "2023-01-30T14:02:41.700Z"
+        },
+        {
+            "id": 2,
+            "description": "Hambuguer",
+            "type": "outcome",
+            "category": "alimentação",
+            "price": 50,
+            "createdAt": "2023-01-30T14:02:41.700Z"
+        },
+        {
+            "id": 3,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "venda",
+            "price": 14000,
+            "createdAt": "2023-01-30T14:02:41.700Z"
+        }
+    ]
+}
