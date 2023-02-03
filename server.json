@@ -1,28 +1,60 @@
 {
-    "transaction": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "venda",
-            "price": 14000,
-            "createdAt": "2023-01-30T14:02:41.700Z"
-        },
-        {
-            "id": 2,
-            "description": "Hambuguer",
-            "type": "outcome",
-            "category": "alimentação",
-            "price": 50,
-            "createdAt": "2023-01-30T14:02:41.700Z"
-        },
-        {
-            "id": 3,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "venda",
-            "price": 14000,
-            "createdAt": "2023-01-30T14:02:41.700Z"
-        }
-    ]
+  "transaction": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-01-30T14:02:41.700Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambuguer",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 50,
+      "createdAt": "2023-01-30T14:02:41.700Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-01-30T14:02:41.700Z"
+    },
+    {
+      "description": "Combustivel",
+      "price": 50,
+      "category": "veículo",
+      "type": "outcome",
+      "createdAt": "2023-02-02T01:37:34.974Z",
+      "id": 4
+    },
+    {
+      "description": "Combustivel",
+      "price": 50,
+      "category": "veículo",
+      "type": "outcome",
+      "createdAt": "2023-02-02T01:37:37.056Z",
+      "id": 5
+    },
+    {
+      "description": "sorvete",
+      "price": 12,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-02T01:59:00.090Z",
+      "id": 6
+    },
+    {
+      "description": "Google analytics",
+      "price": 100,
+      "category": "SEO",
+      "type": "income",
+      "createdAt": "2023-02-02T01:59:49.239Z",
+      "id": 7
+    }
+  ]
 }

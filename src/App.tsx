@@ -1,5 +1,5 @@
-import { useState } from 'react'
 import { ThemeProvider } from 'styled-components'
+
 import { TransactionProvider } from './contexts/TransactionContext'
 import { Transactions } from './pages/Transactions'
 import { GlobalStyle } from './styles/global'
