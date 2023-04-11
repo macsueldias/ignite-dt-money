@@ -59,6 +59,10 @@ export const Content = styled(Dialog.Content)`
       }
     }
   }
+
+  @media (max-width: 480px) {
+    min-width: 22rem;
+  }
 `
 export const CloseButton = styled(Dialog.Close)`
   position: absolute;

@@ -14,11 +14,12 @@ export const HeaderContent = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 1rem;
 `
 export const NewTransactionButton = styled.button`
   height: 50px;
   border: 0;
-  background-color: ${(props) => props.theme['green-500']};
+  background-color: ${(props) => props.theme['green-700']};
   color: ${(props) => props.theme.white};
   font-weight: bold;
   padding: 0 1.25rem;
